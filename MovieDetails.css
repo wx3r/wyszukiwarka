@@ -1,0 +1,33 @@
+.movie-details img {
+    width: 300px;
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+   
+  .movie-details h2 {
+    font-size: 24px;
+    color: #e50914;
+    margin-bottom: 10px;
+  }
+   
+  .movie-details p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+   
+  .movie-details .back-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+   
+  .movie-details .back-button:hover {
+    background-color: #f40612;
+  }
